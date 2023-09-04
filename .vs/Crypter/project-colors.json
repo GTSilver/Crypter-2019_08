@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef9141f8-9fe6-48cf-88d6-7636bec42c56": {
+      "ProjectGuid": "ef9141f8-9fe6-48cf-88d6-7636bec42c56",
+      "DisplayName": "Crypter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

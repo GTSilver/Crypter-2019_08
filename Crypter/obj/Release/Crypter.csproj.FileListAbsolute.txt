@@ -1,0 +1,10 @@
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Release\Crypter.exe.config
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Release\Crypter.exe
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Release\Crypter.pdb
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Release\Crypter.MainForm.resources
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Release\Crypter.OptionsForm.resources
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Release\Crypter.Properties.Resources.resources
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Release\Crypter.csproj.GenerateResource.cache
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Release\Crypter.csproj.CoreCompileInputs.cache
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Release\Crypter.exe
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Release\Crypter.pdb

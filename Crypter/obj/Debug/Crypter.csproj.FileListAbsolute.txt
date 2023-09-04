@@ -1,0 +1,56 @@
+C:\Users\GTSilver\Desktop\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.exe.config
+C:\Users\GTSilver\Desktop\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.exe
+C:\Users\GTSilver\Desktop\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.pdb
+C:\Users\GTSilver\Desktop\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csprojAssemblyReference.cache
+C:\Users\GTSilver\Desktop\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.Properties.Resources.resources
+C:\Users\GTSilver\Desktop\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csproj.GenerateResource.cache
+C:\Users\GTSilver\Desktop\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csproj.CoreCompileInputs.cache
+C:\Users\GTSilver\Desktop\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.exe
+C:\Users\GTSilver\Desktop\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.pdb
+C:\Users\GTSilver\Desktop\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.MainForm.resources
+C:\Users\GTSilver\Desktop\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.OptionsForm.resources
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.exe.config
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.exe
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.pdb
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.MainForm.resources
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.OptionsForm.resources
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.Properties.Resources.resources
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csproj.GenerateResource.cache
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csproj.CoreCompileInputs.cache
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.exe
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.pdb
+D:\яя\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csprojAssemblyReference.cache
+D:\Рабочий стол\,Проекты\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.exe.config
+D:\Рабочий стол\,Проекты\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.exe
+D:\Рабочий стол\,Проекты\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.pdb
+D:\Рабочий стол\,Проекты\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csprojAssemblyReference.cache
+D:\Рабочий стол\,Проекты\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.MainForm.resources
+D:\Рабочий стол\,Проекты\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.OptionsForm.resources
+D:\Рабочий стол\,Проекты\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.Properties.Resources.resources
+D:\Рабочий стол\,Проекты\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csproj.GenerateResource.cache
+D:\Рабочий стол\,Проекты\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\,Проекты\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.exe
+D:\Рабочий стол\,Проекты\RSA шифрование\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.exe.config
+D:\Рабочий стол\,Программирование\Visual Studio\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Абсалютное шифрование\Crypter\Crypter\bin\Debug\Crypter.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csprojAssemblyReference.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.MainForm.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.OptionsForm.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.Properties.Resources.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csproj.GenerateResource.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Абсалютное шифрование\Crypter\Crypter\obj\Debug\Crypter.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\bin\Debug\Crypter.exe.config
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\bin\Debug\Crypter.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\bin\Debug\Crypter.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\obj\Debug\Crypter.MainForm.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\obj\Debug\Crypter.OptionsForm.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\obj\Debug\Crypter.Properties.Resources.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\obj\Debug\Crypter.csproj.GenerateResource.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\obj\Debug\Crypter.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\obj\Debug\Crypter.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\obj\Debug\Crypter.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\obj\Debug\Crypter.csproj.AssemblyReference.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Crypter\Crypter\obj\Debug\Crypter.csproj.SuggestedBindingRedirects.cache
